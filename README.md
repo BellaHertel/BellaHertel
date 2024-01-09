@@ -6,10 +6,9 @@
 <div>
 
 Here are some ideas to get you started:
-
-💼 Working at jobsfg with friends.
-🌱 Currently learning Figma and HTML/CSS/JS. 😥
-👍 Want to help others.
-📖 Studying at IFSP. 
-🤔 Actually, I need help
+- 💼 Working at jobsfg with friends. 
+- 🌱 Currently learning Figma and HTML/CSS/JS. 😥
+- 👍 Want to help others.
+- 📖 Studying at IFSP. 
+- 🤔 Actually, I need help
 
