@@ -17,3 +17,4 @@
   <img align = "center" alt = "Javascript" height = "45" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align = "center" alt = "Python" height = "45" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align = "center" alt = "Java" height = "45" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align = "center" alt = "Java" height = "45" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
