@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm BellaHertel 👋
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BellaHertel&show_icons=true&layout=compact&theme=dracula"") /> 
