@@ -6,7 +6,7 @@
 <div>
 
 - 💼 Working at jobsfg with friends. 
-- 🌱 Currently learning Figma and HTML/CSS/JS. 😥
+- 🌱 Currently learning Figma and HTML/CSS/JS. 😇
 - 👍 Want to help others.
 - 📖 Studying at IFSP. 
 - 🤔 Actually, I need help
