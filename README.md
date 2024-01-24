@@ -9,7 +9,7 @@
 - 🌱 Currently learning Figma and HTML/CSS/JS. 😇
 - 👍 Want to help others.
 - 📖 Studying at IFSP. 
-- 🤔 Actually, I need help
+- 🤔 Actually, I need help.
 
   <img align = "center" alt = "Figma" height = "45" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align = "center" alt = "HTML" height = "45" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
